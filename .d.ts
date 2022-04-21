@@ -1,0 +1,1 @@
+declare module '@nateflynn/webpack-wordpress-plugin-version-sync';
